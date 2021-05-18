@@ -8,6 +8,7 @@ body{
 }
 .container{
     width: 80%;
+    margin: auto;
     overflow: hidden;
 }
 ul{
@@ -38,7 +39,7 @@ header #branding h1{
     margin: 0;
 }
 header nav{
-    float: right;
+    float: left;
     margin-top: 10px;
 }
 header .highlight, header .current a{
